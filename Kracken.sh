@@ -16,7 +16,7 @@
    
   echo "***********[Kracken V-1.0]***********"
   echo "*                                   *"
-  echo "*  Wrtten by: thisguysayswht        *"
+  echo "*  Wrtten by: Joshua Hofffman       *"
   echo "*                                   *"
   echo "**************[WARNING]**************"
   echo "*                                   *"
